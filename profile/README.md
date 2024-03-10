@@ -1,9 +1,9 @@
 # Setup Automatizado 🚀
 
-![Licença](https://img.shields.io/github/license/guilhermejansen)
-![Estrelas](https://img.shields.io/github/stars/guilhermejansen)
-![Issues](https://img.shields.io/github/issues/guilhermejansen)
-![Forks](https://img.shields.io/github/forks/guilhermejansen)
+![Licença](https://img.shields.io/github/license/guilhermejansen/aula-whatsapp-openai)
+![Estrelas](https://img.shields.io/github/stars/guilhermejansen/aula-whatsapp-openai)
+![Issues](https://img.shields.io/github/issues/guilhermejansen/aula-whatsapp-openai)
+![Forks](https://img.shields.io/github/forks/guilhermejansen/aula-whatsapp-openai)
 
 ## Sobre Nós 🌐
 
