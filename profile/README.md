@@ -1,9 +1,9 @@
 # Setup Automatizado 🚀
 
-![Licença](https://img.shields.io/github/license/Setup-Automatizado/setupautomatizado)
-![Estrelas](https://img.shields.io/github/stars/Setup-Automatizado/setupautomatizado)
-![Issues](https://img.shields.io/github/issues/Setup-Automatizado/setupautomatizado)
-![Forks](https://img.shields.io/github/forks/Setup-Automatizado/setupautomatizado)
+![Licença](https://img.shields.io/github/license/guilhermejansen)
+![Estrelas](https://img.shields.io/github/stars/guilhermejansen)
+![Issues](https://img.shields.io/github/issues/guilhermejansen)
+![Forks](https://img.shields.io/github/forks/guilhermejansen)
 
 ## Sobre Nós 🌐
 
