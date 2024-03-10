@@ -1,11 +1,42 @@
 # Setup Automatizado 🚀
-
+---
 ![aula-whatsapp-openai](https://img.shields.io/badge/Guilherme%20Jansen-aula--whatsapp--openai-blue)
 ![Licença](https://img.shields.io/github/license/guilhermejansen/aula-whatsapp-openai)
 ![Estrelas](https://img.shields.io/github/stars/guilhermejansen/aula-whatsapp-openai)
 ![Issues](https://img.shields.io/github/issues/guilhermejansen/aula-whatsapp-openai)
 ![Forks](https://img.shields.io/github/forks/guilhermejansen/aula-whatsapp-openai)
 
+![aiwhats-api](https://img.shields.io/badge/Guilherme%20Jansen-aiwhats--api-blue)
+![License](https://img.shields.io/github/license/guilhermejansen/aiwhats-api)
+![Stars](https://img.shields.io/github/stars/guilhermejansen/aiwhats-api)
+![Issues](https://img.shields.io/github/issues/guilhermejansen/aiwhats-api)
+![Forks](https://img.shields.io/github/forks/guilhermejansen/aiwhats-api)
+
+![webscraping-ai-setpar](https://img.shields.io/badge/Guilherme%20Jansen-webscraping--ai--setpar-blue)
+![License](https://img.shields.io/github/license/guilhermejansen/webscraping-ai-setpar)
+![Stars](https://img.shields.io/github/stars/guilhermejansen/webscraping-ai-setpar)
+![Issues](https://img.shields.io/github/issues/guilhermejansen/webscraping-ai-setpar)
+![Forks](https://img.shields.io/github/forks/guilhermejansen/webscraping-ai-setpar)
+
+![adset-aiprimavia-api](https://img.shields.io/badge/Guilherme%20Jansen-adset--aiprimavia--api-blue)
+![License](https://img.shields.io/github/license/guilhermejansen/adset-aiprimavia-api)
+![Stars](https://img.shields.io/github/stars/guilhermejansen/adset-aiprimavia-api)
+![Issues](https://img.shields.io/github/issues/guilhermejansen/adset-aiprimavia-api)
+![Forks](https://img.shields.io/github/forks/guilhermejansen/adset-aiprimavia-api)
+
+![bling-refresh-token-api](https://img.shields.io/badge/Guilherme%20Jansen-bling--refresh--token--api-blue)
+![License](https://img.shields.io/github/license/guilhermejansen/bling-refresh-token-api)
+![Stars](https://img.shields.io/github/stars/guilhermejansen/bling-refresh-token-api)
+![Issues](https://img.shields.io/github/issues/guilhermejansen/bling-refresh-token-api)
+![Forks](https://img.shields.io/github/forks/guilhermejansen/bling-refresh-token-api)
+
+![remotejid-thread-api](https://img.shields.io/badge/Guilherme%20Jansen-remotejid--thread--api-blue)
+![License](https://img.shields.io/github/license/guilhermejansen/remotejid-thread-api)
+![Stars](https://img.shields.io/github/stars/guilhermejansen/remotejid-thread-api)
+![Issues](https://img.shields.io/github/issues/guilhermejansen/remotejid-thread-api)
+![Forks](https://img.shields.io/github/forks/guilhermejansen/remotejid-thread-api)
+
+---
 ## Sobre Nós 🌐
 
 Somos a **Setup Automatizado**, uma startup aceleradora de negócios especializada em **tecnologia, informação e internet**. Localizados no Rio de Janeiro, focamos em transformar desafios tecnológicos em oportunidades, impulsionando a produtividade e a inovação.
