@@ -1,5 +1,6 @@
 # Setup Automatizado 🚀
 
+![aula-whatsapp-openai](https://img.shields.io/badge/Guilherme%20Jansen-aula--whatsapp--openai-blue)
 ![Licença](https://img.shields.io/github/license/guilhermejansen/aula-whatsapp-openai)
 ![Estrelas](https://img.shields.io/github/stars/guilhermejansen/aula-whatsapp-openai)
 ![Issues](https://img.shields.io/github/issues/guilhermejansen/aula-whatsapp-openai)
